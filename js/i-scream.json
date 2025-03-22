@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "https://kjstalla.github.io/Lab4_JS_Stal/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://kjstalla.github.io/Lab4_JS_Stal/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+        "image": "https://kjstalla.github.io/Lab4_JS_Stal/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Chocolate Chip Cookie Dough",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": ["Vanilla Base", "Chocolate Chips", "Cookie Dough"],
+        "image": "https://kjstalla.github.io/Lab4_JS_Stal/images/ice-cream-xtra2.svg"
+    }, {
+        "name": "Lemon Special",
+        "calories": 240,
+        "type": "ice-cream",
+        "ingredients": ["Vanilla Base", "Lemon Flavoured Icing", "Sprinkles"],
+        "image": "https://kjstalla.github.io/Lab4_JS_Stal/images/ice-cream-xtra1.svg"
+    }]
+}
